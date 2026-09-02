@@ -11,7 +11,7 @@ My experience spans healthcare, education, fitness, fintech, and IoT
 domains, where performance, stability, and scalability are essential.
 
 🔗 **Portfolio:** https://dhiraj-kumawat.netlify.app/  
-💼 **LinkedIn:** https://www.linkedin.com/in/dhiraj-kumawat-47316b92  
+💼 **LinkedIn:** https://www.linkedin.com/in/dhiraj-k-47316b92/
 📫 **Email:** mr.dhiraj.kumawat@gmail.com  
 
 ---
